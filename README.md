@@ -16,7 +16,7 @@ No jailbreak and no app on the phone. It talks to the phone's SpringBoard servic
 
 I recently switched from Android to iPhone. The migration brought over a ton of apps from my Android phone, many of which I hadn't touched in years. They'd just piggybacked across every Android upgrade I'd ever made.
 
-That was fine on Android, where I rarely saw them. On the iPhone they filled screen after screen and became an eyesore. I knew AI could help me sort them out, but the only tools I could find were paid, so I built this with AI instead.
+That was fine on Android, where I rarely saw them. On the iPhone they filled screen after screen and became an eyesore. Sorting them on the phone itself, dragging one icon at a time across pages, was way too slow and tedious for that many apps. I knew AI could help me sort them out, but the only tools I could find were paid, so I built this with AI instead.
 
 ## Requirements
 
