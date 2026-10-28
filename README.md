@@ -2,6 +2,8 @@
 
 Rearrange your iPhone's home screen from your computer by dragging app icons around in a browser, then push the result to the phone over USB.
 
+![The editor: dock and pages on the left, every folder open on the right, Unsorted tray on top](docs/screenshot.png)
+
 - Every app shows up as a draggable orb with its real icon, pulled from the phone.
 - The dock and each home screen page are listed on the left; every folder is shown open on the right.
 - Drag apps between pages and folders, rename, sort or delete folders, and create new ones.
